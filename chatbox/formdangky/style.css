@@ -1,0 +1,78 @@
+*{
+    top: 0;
+    left:0;
+    box-sizing: border-box;
+}
+
+
+
+.DKlogo{
+    width:200px;
+    height: 100px;
+    margin-left: 750px;
+}
+.DKbig_font{
+    width:500px;
+    font-size: 40px;
+    margin-left:720px; 
+}
+.DKbox{
+    width:350px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 800px;
+    margin: auto;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.Dkbox_email_password{
+    text-align: left;
+    padding-left: 50px;
+
+
+}
+.DKbox_email{
+    height: 40px;
+    width: 300px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.DKbtn_register{
+    margin-left: 10px;
+    text-align: center;
+    /* margin-left: 25px; */
+    background-color: brown;
+    color:aliceblue
+}
+.DKbox_creat_account{
+    height: 40px;
+    width: 350px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: auto;
+    padding-top: 10px;
+    margin-top: 30px;
+}
+.forget_passwold{
+    padding-top: 5px;
+    padding-left: 120px;
+}
+.forget_passwold a{
+ text-decoration: none;
+ color: black;
+}
+.DKbox_creat_account{
+    /* text-align: center; */
+    /* margin-top: 50px; */
+    margin-left: 713px;
+    /* border: 1px solid black; */
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;  
+    padding-bottom: 10px;
+}

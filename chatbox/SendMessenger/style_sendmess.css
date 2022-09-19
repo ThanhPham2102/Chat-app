@@ -1,0 +1,64 @@
+*{
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+}
+.box_chat{
+    width: 100%;
+    height: 100vh; 
+    
+}
+.topic{
+    width:100%;
+    height: 6vh;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+    border: 1px 1px 0px 1px solid black;
+    text-align: center;
+    padding-top: 10px;
+    background-color: brown;
+    color: aliceblue;
+}
+.box_ib{
+    display: flex;
+
+}
+.New_conversion{
+    width: 25%;
+    border: 1px  solid black;
+    
+    
+
+}
+.New_conversion-text{
+border-bottom: 1px solid black;
+padding: 20px;
+}
+.First_conversion{
+    width: 50%;
+    border: 1px solid black;
+    /* position: relative;   */
+
+}
+.First_conversion-text{
+    border-bottom:1px solid black ;
+    padding: 20px
+}
+.anh-thanh{
+    height: calc(80vh);
+}
+.write_text{
+    width: 95%;
+    padding: 15px;
+
+}
+.First_conversion-text--send{
+   display: flex;
+    bottom: 0;
+}
+.btn_send{
+    width: 5%;
+    border: 1px solid black;
+   
+}

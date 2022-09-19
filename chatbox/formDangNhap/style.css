@@ -1,0 +1,67 @@
+*{
+    top: 0;
+    left:0;
+    box-sizing: border-box;
+}
+
+
+.form_dangnhap{
+    text-align: center;
+    justify-content: center;
+    margin:auto;
+    /* margin-left: 650px; */
+
+}
+.logo{
+    width:200px;
+    height: 100px;
+}
+.big_font{
+    width:500px;
+    font-size: 40px;
+   
+    margin-left: 630px; 
+}
+.box{
+    width:350px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 700px;
+    margin: auto;
+}
+
+.box_email_password{
+    text-align: left;
+    padding: 20px;
+}
+.box_email{
+    height: 40px;
+    width: 300px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.btn_login{
+ margin-left: 15px;
+ background-color: brown;
+ /* margin: auto; */
+}
+.box_creat_account{
+    height: 40px;
+    width: 350px;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+    margin: auto;
+   padding-top: 10px;
+   margin-top: 30px;
+}
+.forget_passwold{
+    padding-top: 5px;
+    padding-left: 120px;
+}
+.forget_passwold a{
+ text-decoration: none;
+ color: black;
+}
